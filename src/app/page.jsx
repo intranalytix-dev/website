@@ -7,7 +7,7 @@ import HeroSection from '../components/HeroSection';
 import ValuePropSection from '../components/ValuePropSection';
 import FeaturesSection from '../components/FeaturesSection';
 import TargetUsersSection from '../components/TargetUsersSection';
-import PricingPage from '../components/PricingPage';
+// import PricingPage from '../components/PricingPage';
 import Footer from '../components/Footer';
 
 export default function HomePage() {
@@ -37,7 +37,7 @@ export default function HomePage() {
       <ValuePropSection />
       <FeaturesSection /> 
       <TargetUsersSection />
-       <PricingPage />
+       {/* <PricingPage /> */}
       <Footer />
     </>
   );
