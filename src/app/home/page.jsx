@@ -2,13 +2,13 @@
 'use client';
 
 import { useEffect } from 'react';
-import Navbar from '../components/Navbar';
-import HeroSection from '../components/HeroSection';
-import ValuePropSection from '../components/ValuePropSection';
-import FeaturesSection from '../components/FeaturesSection';
-import TargetUsersSection from '../components/TargetUsersSection';
+import Navbar from '../../components/Navbar';
+import HeroSection from '../../components/HeroSection';
+import ValuePropSection from '../../components/ValuePropSection';
+import FeaturesSection from '../../components/FeaturesSection';
+import TargetUsersSection from '../../components/TargetUsersSection';
 // import PricingPage from '../components/PricingPage';
-import Footer from '../components/Footer';
+import Footer from '../../components/Footer';
 
 export default function HomePage() {
   // Smooth scroll to #hash on first render (and when hash changes via in-page nav)
