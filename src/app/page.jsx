@@ -10,8 +10,8 @@ export default function HomePage() {
                 <nav className="home-navbar" >
                   <li><Link href="/home">ATCHAYASRI RAJKUMAR</Link></li>  
                       <ul className="home-navbar-links">
-                        <li><Link href="/home">Intro</Link></li>
-                        <li><Link href="/">AutoGen Reports</Link></li>
+                        <li><Link href="/">Intro</Link></li>
+                        <li><Link href="/home">AutoGen Reports</Link></li>
                         <li><Link href="/blog">Blog</Link></li>
                       </ul>
                 </nav>

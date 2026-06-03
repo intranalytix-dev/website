@@ -13,8 +13,8 @@ const Navbar = () => {
       </div>
 
       <ul className="navbar-links">
-        <li><Link href="/home">Intro</Link></li>
-        <li><Link href="/">AutoGen Reports</Link></li>
+        <li><Link href="/">Intro</Link></li>
+        <li><Link href="/home">AutoGen Reports</Link></li>
         {/* <li><Link href="/#features">Features</Link></li> */}
         {/* <li><Link href="/#users">Who It's For</Link></li> */}
         {/* <li><Link href="/#pricing">Pricing</Link></li> */}
