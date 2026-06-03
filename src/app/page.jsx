@@ -8,7 +8,7 @@ export default function HomePage() {
     <main className="min-h-screen bg-white text-gray-800">
             <section className="home-section" id="home">
                 <nav className="home-navbar" >
-                  <li><Link href="/home">ATCHAYASRI RAJKUMAR</Link></li>  
+                  <li><Link href="/">ATCHAYASRI RAJKUMAR</Link></li>  
                       <ul className="home-navbar-links">
                         <li><Link href="/">Intro</Link></li>
                         <li><Link href="/home">AutoGen Reports</Link></li>
